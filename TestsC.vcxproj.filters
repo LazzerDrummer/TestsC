@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Logistic_Equation.cpp">
+    <ClCompile Include="Permutation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
