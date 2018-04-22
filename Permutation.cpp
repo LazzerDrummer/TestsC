@@ -39,7 +39,7 @@ int main()
 	cin >> n;
 	for (int i = 1; i <= n; i++)
 		cin >> v[i];
-	permutate(1, 3);
+	permutate(1, n);
 	cin.ignore();
 	cin.get();
 }
