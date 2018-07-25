@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Char1.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="Char1.h" />
+    <ClCompile Include="Uni2018c.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
