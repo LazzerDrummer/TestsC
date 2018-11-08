@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BacModel2019CifrePrime.cpp">
+    <ClCompile Include="BacModel2019Sub3Ex2.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
