@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BacSimulare2016Sub2Ex5.cpp">
+    <Text Include="gensir.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="GenerareSirBacktracking.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
