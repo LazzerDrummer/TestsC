@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="gensir.txt" />
+    <Text Include="op.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="GenerareSirBacktracking.cpp">
+    <ClCompile Include="Operatori8Bktrck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
