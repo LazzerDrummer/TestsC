@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="op.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Operatori8Bktrck.cpp">
+    <ClCompile Include="GenSir12Bktrck.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="gensir12.txt" />
   </ItemGroup>
 </Project>
