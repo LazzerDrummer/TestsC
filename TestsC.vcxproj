@@ -18,6 +18,12 @@
       <Platform>x64</Platform>
     </ProjectConfiguration>
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="func.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="ApelFunctie.cpp" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
     <ProjectGuid>{AA4746D9-27C6-4EFC-AA80-6A9AF936DD0B}</ProjectGuid>
