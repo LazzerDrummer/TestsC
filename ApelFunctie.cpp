@@ -23,6 +23,8 @@ int main()
 	}
 	Rezolvare(0);
 	Afisare();
+	delete[]p;
+	f.close();
 	cin.ignore();
 	cin.get();
 	return 0;
