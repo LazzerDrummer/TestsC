@@ -9,12 +9,13 @@ int main()
 	ifstream f("func.txt");
 	f.getline(s, 100);
 	char c;
-	while (f.get(c))
+	int a;
+	while (!f.eof())
 	{
-		fu[i] = c; f.get(c); f.get(c); 
-		v[i] = c - 48; f.get(c);
-		i++;
+		f >> c >> a;
+		fu[i] = c; v[i++] = a;
 	}
+	f.close();
 	i = 0;
 	p = new int[strlen(s)];
 	for (int i = 0; i < strlen(s); i++)
@@ -24,7 +25,6 @@ int main()
 	Rezolvare(0);
 	Afisare();
 	delete[]p;
-	f.close();
 	cin.ignore();
 	cin.get();
 	return 0;
