@@ -15,11 +15,12 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="func.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="ApelFunctie.cpp">
+    <ClCompile Include="Imagine.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="imagine.in" />
+    <None Include="imagine.out" />
   </ItemGroup>
 </Project>
