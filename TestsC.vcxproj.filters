@@ -15,12 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Imagine.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
+    <Text Include="bac1.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="imagine.in" />
-    <None Include="imagine.out" />
+    <ClCompile Include="BacModel2015Sub3Ex4.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

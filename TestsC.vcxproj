@@ -19,11 +19,10 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Imagine.cpp" />
+    <Text Include="bac1.txt" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="imagine.in" />
-    <None Include="imagine.out" />
+    <ClCompile Include="BacModel2015Sub3Ex4.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>
