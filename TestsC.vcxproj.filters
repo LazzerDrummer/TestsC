@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="bac1.txt" />
+    <Text Include="info.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BacModel2015Sub3Ex4.cpp">
+    <ClCompile Include="Uni2016.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
