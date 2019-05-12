@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="info.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Uni2016.cpp" />
+    <ClCompile Include="Pliere8Divide.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="info.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="Uni2016.cpp">
+    <ClCompile Include="Pliere8Divide.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
