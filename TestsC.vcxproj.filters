@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Pliere8Divide.cpp">
+    <Text Include="nrord.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="NumarOrdCartezian6Combinatorica.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
