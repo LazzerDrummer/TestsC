@@ -19,10 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="nrord.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="NumarOrdCartezian6Combinatorica.cpp" />
+    <ClCompile Include="Joc7Dinamica.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

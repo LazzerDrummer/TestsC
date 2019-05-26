@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="nrord.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="NumarOrdCartezian6Combinatorica.cpp">
+    <ClCompile Include="Joc7Dinamica.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
