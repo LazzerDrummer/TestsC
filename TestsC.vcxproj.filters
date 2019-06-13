@@ -15,8 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Joc7Dinamica.cpp">
+    <ClCompile Include="BreadthFirstSearch.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="breadth.txt" />
   </ItemGroup>
 </Project>
