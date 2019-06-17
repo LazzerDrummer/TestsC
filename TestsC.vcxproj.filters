@@ -15,11 +15,11 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BreadthFirstSearch.cpp">
+    <ClCompile Include="Bipartit.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="breadth.txt" />
+    <Text Include="bipartit.txt" />
   </ItemGroup>
 </Project>
